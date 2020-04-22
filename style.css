@@ -1,0 +1,133 @@
+   /*police*/
+   
+   @font-face {
+       font-family: "alice";
+       src: url(alice/Alice-Regular.ttf);
+   }
+   
+   @font-face {
+       font-family: "amat";
+       src: url(amatic/AmaticSC-Regular.ttf);
+   }
+   /*général*/
+   
+   .no-gutter {
+       padding: 0px;
+       margin: 0%;
+   }
+   
+   .bg-warning {
+       background-color: #FDD835''';
+
+   }
+   
+   .text-warning {
+       color: #FDD835;
+   }
+   
+   .fa-bullseye {
+       font-size: xx-large;
+       color: #FDD835;
+   }
+   
+   .fa-circle {
+       font-size: medium;
+       color: #FDD835;
+       padding-left: 20px;
+   }
+   
+   .interlign {
+       line-height: 1.5;
+   }
+   
+   p {
+       margin-bottom: 1.25%;
+   }
+   
+   .fa-university {
+       color: #FDD835;
+   }
+   
+   .fa-desktop {
+       color: #FDD835;
+   }
+   
+   .fa-thumbs-up {
+       color: #FDD835;
+   }
+   /*entete*/
+   
+   .presentation {
+       font-size: 40px;
+       padding-left: 50px;
+   }
+   
+   .photo {
+       padding: 4% 4% 3% 4%;
+   }
+   
+   .photodeprofil {
+       width: 50%;
+   }
+   
+   .harmony {
+       font-style: normal;
+   }
+   
+   .developpeuse {
+       font-size: 25px;
+       padding-left: 50px;
+   }
+   
+   .souligne {
+       font-style: normal;
+       border-bottom: solid #FDD835 3px;
+   }
+   /*bande jaune avec les informations personnelles*/
+   
+   .titre-perso {
+       color: #FDD835;
+       background-color: #616161;
+       font-size: 30px;
+       text-align: center;
+       padding-top: 10px;
+       padding-bottom: 10px;
+       font-family: "amat"
+   }
+   
+   .loisir {
+       min-height: 100px;
+   }
+   
+   .icon-loisir {
+       color: #616161;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       font-size: 2vw;
+       border-radius: 50%;
+       border: solid #616161;
+       width: 4vw;
+       height: 4vw;
+   }
+   
+   .a-propos {
+       margin-bottom: 100px;
+   }
+   /* bande de gauche formation*/
+   
+   .titre-pro {
+       margin: 40px 0px 40px 60px;
+       border-bottom: solid #FDD835 5px;
+       font-family: "alice";
+   }
+   
+   .formation {
+       padding-left: 60px;
+       padding-top: 30px;
+   }
+   /*recommandation*/
+   
+   .reco {
+       padding-left: 70px;
+   }
